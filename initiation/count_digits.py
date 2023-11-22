@@ -1,5 +1,6 @@
 # You need to count the number of digits in a given string.
 
+
 def count_digits(text: str) -> int:
     digits = 0
     for symbol in text:
